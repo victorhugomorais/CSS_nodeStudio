@@ -1,0 +1,12 @@
+*{margin: 0px;
+    padding: 0px;}
+
+    #conteudo{
+        width: 600px;height: 1200px; background-color: red;
+        position: relative;
+    }
+    #texto{
+        width: 500px;background-color: green;
+        position: absolute;
+        right: 0px;bottom:10px;
+    }

@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+input[type="text"]{
+    background-color: #ccc;
+    width: 200px;
+    height: 25px;
+}
+
+input[type="email"]{
+    background-color: #ccc;
+    width: 200px;
+    height: 25px;
+}
+
+input[type="submit"]{
+    background-color: #ccc;
+    width: 50px;
+    height: 25px;
+    border: none;
+    cursor: pointer;
+}
+
+#id{color:green;}

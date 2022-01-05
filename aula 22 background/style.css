@@ -1,0 +1,21 @@
+#exemplo{
+    width: 200px;height: 200px;background-color: red;
+    transition-duration: 2s;
+    transition-property: width ;
+
+}
+#exemplo:hover{
+    width: 350px;
+    height: 350px;
+    background-color: green;
+}
+
+body{
+    /* background-color: #1d1e20; */
+    background-image: url(../images/1.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    /* background-size: 100% 75%; */
+}
+

@@ -1,0 +1,64 @@
+/*aula07*/
+.exemplo{
+    background-color: green;
+    color: #fff;
+    width: 500px;
+    padding: 10px 20px 30px 40px;
+    text-align:justify ;
+}
+.exemplo2{
+    background-color: red;
+    color:#fff;
+    width: 500px;
+    /* margin-top: 20px;
+    margin-left:20px; */
+    margin: 20px;
+}
+
+/*aula8*/
+p{color: #000;}
+h1{text-align: left;
+text-decoration: line-through;}
+h2{text-align: right;
+text-decoration: underline;}
+h3{text-align: center;
+text-decoration: overline;}
+h4{text-align: justify;}
+/*aula09*/
+.aula9{
+    line-height: 25px;  
+    direction: rtl;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+    text-shadow: 3px 3px 0px rgb(255, 0, 0);
+}
+
+*/
+
+
+/* *{
+    margin: 0;
+    padding: 0;
+}
+
+input[type="text"]{
+    background-color: #ccc;
+    width: 200px;
+    height: 25px;
+}
+
+input[type="email"]{
+    background-color: #ccc;
+    width: 200px;
+    height: 25px;
+}
+
+input[type="submit"]{
+    background-color: #ccc;
+    width: 50px;
+    height: 25px;
+    border: none;
+    cursor: pointer;
+}
+
+#id{color:green;} */

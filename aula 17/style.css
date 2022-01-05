@@ -1,0 +1,11 @@
+.gradient{
+    height: 500px;
+    width: 500px;
+    background: linear-gradient(to top left, rgb(255, 0, 0), #298561);
+}
+
+.radial{
+    height: 500px;
+    width: 500px;
+    background: radial-gradient(rgb(255, 0, 0), #298561);
+}

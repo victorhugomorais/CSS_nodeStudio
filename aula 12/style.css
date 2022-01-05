@@ -1,0 +1,12 @@
+.bloco{
+    width: 500px;
+    height: 300px;
+    padding:10px;
+    background-color: aquamarine;
+    border-radius: 20px 40px 60px 80px;
+    /*a linha de cima comprime as 4 de baixo em 1 só*/
+    border-top-left-radius: 40px;
+    border-top-right-radius: 80px;
+    border-bottom-right-radius: 120px;
+    border-bottom-left-radius: 160px;
+}

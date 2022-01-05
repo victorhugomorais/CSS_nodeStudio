@@ -1,0 +1,27 @@
+#borderDashed{
+    border-style: dashed ;
+}
+#borderDotted{
+    border-style:dotted ;
+}
+#borderDouble{
+    border-style:double ;
+}
+#borderGroove{
+    border-style:groove ;
+}
+#borderHidden{
+    border-style:hidden;
+}
+#borderInherit{
+    border-style: inherit;
+}
+#borderInitial{
+    border-style: initial ;
+} 
+#borderInset{
+    border-style: inset;
+}
+#borderSolid{
+    border-style: solid;
+}

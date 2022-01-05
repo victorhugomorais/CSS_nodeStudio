@@ -1,0 +1,12 @@
+.class{
+    width: 300px;
+    background-color: #0987;
+    height: 90px;
+    overflow: auto;
+    /*overflow pode ser: visible, hidden, scroll ou auto;*/
+}
+
+.class p{
+    opacity: 0.5;
+    /* 1 é 100%, 0 deixa o texto invisivel e 0.5 deixa ele com opacidade de 50%*/
+}

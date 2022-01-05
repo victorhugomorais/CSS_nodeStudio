@@ -1,0 +1,25 @@
+*{
+    font-size: 100%;
+}
+
+/*
+p{
+    font-family: Times, "Times New Roman", serif;}
+    /*o navegador vai procurando: se nao encontrar a primeira, vai pra segunda, se nao encontrar, vai pra ultima opção*/    
+
+
+.class{
+
+    font-variant: small-caps;
+    /*normal é o padrão*/
+    /* font-weight: bold;
+    font-style: italic; */
+    font-size: 1em;
+    /*1em = 16px, que é o tamanho padrão do navegador*/
+    /* para converter 40px em quantidade "em", basta dividir 40 por 16, logo temos que 40px = 2.5em;*/
+
+    font-family: 'Karla', sans-serif;
+    background: linear-gradient(to top,#1e1d20, red);
+    height: 1000px;
+    width: 1000px;
+    }
